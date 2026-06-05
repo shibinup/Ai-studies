@@ -1,0 +1,241 @@
+date,city,temperature,windspeed,event
+2026-01-25,New York,,9.5,Cloudy
+2026-01-07,New York,53.2,5.9,Rain
+2026-01-04,Houston,59.9,,Sunny
+2026-01-20,Houston,81.3,13.3,Sunny
+2026-01-15,Houston,59.0,12.2,Sunny
+2026-01-23,Seattle,44.8,17.9,Rain
+2026-01-24,Boston,24.8,13.6,Cloudy
+2026-01-27,Chicago,11.6,11.7,Cloudy
+2026-01-10,New York,48.2,10.1,Sunny
+2026-01-24,Miami,74.0,16.9,Rain
+2026-01-16,Los Angeles,72.4,8.7,Rain
+2026-01-27,Denver,39.8,4.1,Thunderstorm
+2026-01-25,Houston,74.7,9.9,Rain
+2026-01-19,Seattle,47.0,4.4,Rain
+2026-01-24,Houston,73.9,15.9,Sunny
+2026-01-21,Boston,23.0,10.6,Cloudy
+2026-01-06,Denver,39.8,11.5,Rain
+2026-01-16,New York,59.8,9.4,Sunny
+2026-01-03,Seattle,50.6,17.4,Cloudy
+2026-01-06,Miami,69.3,20.3,Sunny
+2026-01-08,Miami,69.8,6.5,Sunny
+2026-01-20,New York,43.4,14.0,Rain
+2026-01-26,Boston,32.6,12.2,Sunny
+2026-01-01,Los Angeles,74.3,8.4,Sunny
+2026-01-27,Seattle,45.3,18.4,Sunny
+2026-01-01,Seattle,51.3,16.9,Rain
+2026-01-11,New York,55.3,16.7,Cloudy
+2026-01-22,Denver,38.3,9.1,Cloudy
+2026-01-28,Boston,23.9,13.4,Cloudy
+2026-01-04,Seattle,49.3,13.0,Sunny
+2026-01-07,Houston,66.8,6.6,Sunny
+2026-01-19,Boston,44.3,24.2,Cloudy
+2026-01-26,New York,34.4,14.4,Cloudy
+2026-01-03,Denver,50.8,11.7,Cloudy
+2026-01-19,New York,45.1,10.8,Rain
+2026-01-10,Chicago,35.9,7.9,Snow
+2026-01-13,Denver,26.6,0.1,Cloudy
+2026-01-26,Los Angeles,74.2,8.9,
+2026-01-20,Chicago,32.1,12.2,Snow
+2026-01-26,Seattle,43.3,12.7,Rain
+2026-01-18,Boston,2.0,23.5,Sunny
+2026-01-23,Houston,72.1,20.4,Sunny
+2026-01-12,Boston,,8.2,Fog
+2026-01-17,New York,54.2,13.6,Snow
+2026-01-07,Seattle,40.7,10.5,Sunny
+2026-01-07,Chicago,14.6,5.0,Snow
+2026-01-16,Seattle,46.7,14.5,Cloudy
+2026-01-09,Los Angeles,64.9,12.8,Rain
+2026-01-20,Miami,71.7,17.5,
+2026-01-01,Chicago,47.7,12.1,
+2026-01-25,Denver,,4.7,Fog
+2026-01-07,Denver,31.5,13.2,Snow
+2026-01-28,Denver,24.5,14.0,Snow
+2026-01-14,Denver,20.4,11.8,Sunny
+2026-01-15,Boston,,12.6,Cloudy
+2026-01-30,Denver,45.8,3.3,Sunny
+2026-01-26,Houston,68.3,,Sunny
+2026-01-10,Boston,33.8,13.8,Cloudy
+2026-01-14,Chicago,58.3,8.0,Sunny
+2026-01-17,Miami,74.6,5.7,Sunny
+2026-01-06,Houston,59.1,,Sunny
+2026-01-07,Miami,50.4,11.7,Thunderstorm
+2026-01-01,Miami,91.6,12.6,Sunny
+2026-01-08,Chicago,23.4,10.9,Snow
+2026-01-12,Houston,74.2,11.7,Sunny
+2026-01-09,Chicago,31.8,7.0,Sunny
+2026-01-19,Houston,75.0,9.0,Thunderstorm
+2026-01-25,Chicago,44.7,3.2,Rain
+2026-01-28,Houston,69.8,7.1,Cloudy
+2026-01-15,Denver,,16.4,Cloudy
+2026-01-28,Seattle,31.4,15.7,Cloudy
+2026-01-22,Houston,81.6,10.0,Sunny
+2026-01-30,New York,47.5,13.7,Cloudy
+2026-01-05,Miami,63.9,3.7,Rain
+2026-01-16,Chicago,43.4,9.1,Cloudy
+2026-01-23,Chicago,46.2,12.3,Cloudy
+2026-01-06,New York,39.0,10.5,Cloudy
+2026-01-27,Los Angeles,67.3,16.2,Sunny
+2026-01-15,Seattle,54.8,10.9,Fog
+2026-01-10,Seattle,45.8,17.3,Fog
+2026-01-08,Houston,71.9,19.4,Sunny
+2026-01-06,Chicago,34.9,9.5,Sunny
+2026-01-03,Boston,50.0,,Sunny
+2026-01-29,Denver,31.7,17.9,Sunny
+2026-01-23,Miami,73.6,7.1,Sunny
+2026-01-02,Los Angeles,62.5,15.3,Cloudy
+2026-01-13,New York,53.1,18.8,Thunderstorm
+2026-01-06,Los Angeles,63.4,14.4,Thunderstorm
+2026-01-29,New York,47.6,15.9,Rain
+2026-01-13,Los Angeles,,10.8,Rain
+2026-01-14,Boston,46.3,5.9,Snow
+2026-01-29,Miami,92.5,11.5,Sunny
+2026-01-12,Seattle,40.5,19.3,Rain
+2026-01-22,Los Angeles,70.0,5.8,Sunny
+2026-01-18,Miami,66.4,5.0,Rain
+2026-01-11,Denver,23.9,21.0,Sunny
+2026-01-17,Chicago,16.2,,
+2026-01-12,Los Angeles,76.6,17.7,Cloudy
+2026-01-13,Seattle,31.6,,
+2026-01-27,Miami,64.2,17.3,Rain
+2026-01-19,Chicago,30.6,18.2,Rain
+2026-01-22,Miami,72.1,,Sunny
+2026-01-27,New York,37.2,10.4,Fog
+2026-01-22,Boston,34.2,19.0,Rain
+2026-01-06,Boston,40.8,,Rain
+2026-01-29,Boston,39.6,,Sunny
+2026-01-13,Miami,79.5,18.4,Sunny
+2026-01-01,New York,50.0,11.3,Cloudy
+2026-01-03,New York,40.4,9.7,Rain
+2026-01-18,Chicago,46.2,9.7,Fog
+2026-01-17,Los Angeles,55.8,12.9,Cloudy
+2026-01-11,Houston,67.3,7.7,Sunny
+2026-01-30,Houston,57.8,19.5,Sunny
+2026-01-25,Miami,,5.6,Rain
+2026-01-24,Seattle,51.8,21.2,Rain
+2026-01-01,Houston,71.1,6.8,Sunny
+2026-01-26,Chicago,50.0,12.4,Rain
+2026-01-18,Seattle,59.2,9.1,Cloudy
+2026-01-09,Seattle,,16.4,
+2026-01-09,Houston,63.7,11.0,Sunny
+2026-01-07,Los Angeles,75.8,11.6,Fog
+2026-01-21,Miami,74.5,3.4,Rain
+2026-01-02,Chicago,35.9,11.3,Fog
+2026-01-23,New York,56.4,15.8,Sunny
+2026-01-29,Houston,79.0,18.8,Rain
+2026-01-06,Seattle,45.3,,Rain
+2026-01-17,Denver,53.6,15.2,Snow
+2026-01-04,Los Angeles,64.9,7.9,Fog
+2026-01-12,New York,48.3,16.9,Rain
+2026-01-25,Boston,34.7,18.8,Sunny
+2026-01-28,New York,47.3,18.5,Rain
+2026-01-28,Miami,65.1,15.5,Sunny
+2026-01-05,New York,,4.9,Rain
+2026-01-03,Miami,84.7,9.4,Thunderstorm
+2026-01-03,Los Angeles,79.7,14.1,Rain
+2026-01-19,Miami,55.3,20.5,Sunny
+2026-01-21,Seattle,51.6,22.1,Sunny
+2026-01-03,Chicago,19.9,5.9,Cloudy
+2026-01-16,Miami,76.7,10.5,
+2026-01-09,Miami,72.1,11.9,Sunny
+2026-01-07,Boston,43.0,13.7,Cloudy
+2026-01-01,Denver,46.3,4.4,Sunny
+2026-01-11,Chicago,40.3,,Sunny
+2026-01-04,Denver,14.6,1.0,Sunny
+2026-01-05,Chicago,22.1,10.4,Sunny
+2026-01-15,Los Angeles,72.5,6.6,Cloudy
+2026-01-05,Seattle,34.2,17.3,Fog
+2026-01-11,Los Angeles,76.1,14.6,Thunderstorm
+2026-01-04,Miami,72.4,17.5,Rain
+2026-01-24,New York,50.9,23.0,Sunny
+2026-01-29,Seattle,47.5,19.9,Fog
+2026-01-18,Denver,48.8,16.6,Sunny
+2026-01-22,Chicago,13.6,18.4,Sunny
+2026-01-10,Los Angeles,74.9,14.8,Rain
+2026-01-21,Denver,24.2,9.6,Snow
+2026-01-18,Los Angeles,76.0,16.3,Sunny
+2026-01-05,Houston,76.6,13.6,Rain
+2026-01-02,Denver,,,Snow
+2026-01-14,Los Angeles,,3.9,Sunny
+2026-01-26,Miami,73.5,8.2,Sunny
+2026-01-17,Boston,51.7,17.0,Cloudy
+2026-01-04,New York,34.9,13.6,Rain
+2026-01-16,Houston,71.5,5.9,Rain
+2026-01-24,Los Angeles,73.6,9.0,Sunny
+2026-01-14,Miami,67.8,14.4,Rain
+2026-01-08,Boston,45.3,6.8,Sunny
+2026-01-05,Denver,34.9,9.2,Cloudy
+2026-01-13,Boston,35.9,14.1,Cloudy
+2026-01-20,Los Angeles,89.0,17.2,Sunny
+2026-01-14,Seattle,44.7,13.2,Rain
+2026-01-21,Chicago,19.2,11.3,Fog
+2026-01-05,Los Angeles,72.1,19.3,Rain
+2026-01-08,New York,52.4,,Sunny
+2026-01-22,Seattle,44.7,21.0,Sunny
+2026-01-21,Houston,75.2,9.9,Rain
+2026-01-02,Houston,66.4,13.1,Thunderstorm
+2026-01-24,Chicago,39.7,18.8,
+2026-01-04,Boston,28.1,22.4,Snow
+2026-01-09,Boston,24.5,21.6,Snow
+2026-01-30,Chicago,,14.5,Sunny
+2026-01-09,New York,30.2,8.4,Snow
+2026-01-14,New York,48.6,19.7,Cloudy
+2026-01-30,Los Angeles,70.3,17.5,Cloudy
+2026-01-26,Denver,52.2,9.7,Cloudy
+2026-01-12,Miami,60.7,,Rain
+2026-01-18,New York,38.0,10.4,Sunny
+2026-01-17,Seattle,38.8,9.2,Cloudy
+2026-01-13,Chicago,49.4,16.8,Cloudy
+2026-01-20,Boston,41.1,13.4,Sunny
+2026-01-15,Miami,77.7,14.2,Cloudy
+2026-01-16,Denver,29.0,8.6,Sunny
+2026-01-11,Boston,45.3,17.9,Sunny
+2026-01-04,Chicago,31.9,7.5,Sunny
+2026-01-25,Los Angeles,84.7,5.8,Sunny
+2026-01-18,Houston,52.2,8.0,Sunny
+2026-01-21,Los Angeles,75.6,15.9,Sunny
+2026-01-19,Denver,40.4,14.0,Snow
+2026-01-25,Seattle,53.2,14.5,Cloudy
+2026-01-20,Denver,47.8,13.0,Cloudy
+2026-01-10,Denver,34.4,15.5,Snow
+2026-01-27,Boston,17.1,8.5,Snow
+2026-01-02,Boston,32.9,5.6,Rain
+2026-01-20,Seattle,38.9,10.1,Thunderstorm
+2026-01-29,Los Angeles,71.8,12.6,Sunny
+2026-01-19,Los Angeles,86.1,14.0,Rain
+2026-01-29,Chicago,36.4,7.3,Sunny
+2026-01-22,New York,43.1,13.5,Sunny
+2026-01-28,Los Angeles,78.5,15.1,Sunny
+2026-01-24,Denver,28.9,3.7,Snow
+2026-01-11,Seattle,39.8,19.0,Rain
+2026-01-23,Boston,20.2,10.9,Sunny
+2026-01-08,Denver,17.0,19.2,Snow
+2026-01-12,Denver,42.1,,Rain
+2026-01-10,Miami,71.7,9.3,Rain
+2026-01-08,Los Angeles,68.4,16.3,Sunny
+2026-01-08,Seattle,43.1,9.8,Rain
+2026-01-16,Boston,51.1,7.8,Rain
+2026-01-02,New York,60.8,15.8,Sunny
+2026-01-23,Los Angeles,83.5,4.8,Rain
+2026-01-30,Miami,71.7,20.9,Rain
+2026-01-11,Miami,50.8,17.5,Sunny
+2026-01-02,Seattle,44.3,15.1,Sunny
+2026-01-14,Houston,58.6,14.7,Cloudy
+2026-01-10,Houston,60.8,14.8,Sunny
+2026-01-27,Houston,75.8,13.7,Sunny
+2026-01-28,Chicago,16.3,15.3,Sunny
+2026-01-23,Denver,32.5,12.6,Sunny
+2026-01-15,Chicago,22.9,12.8,Fog
+2026-01-05,Boston,28.9,11.0,Sunny
+2026-01-01,Boston,16.5,17.8,Snow
+2026-01-02,Miami,75.8,13.1,Cloudy
+2026-01-30,Boston,43.6,23.1,Sunny
+2026-01-21,New York,,11.9,Rain
+2026-01-09,Denver,36.1,14.3,Snow
+2026-01-12,Chicago,34.7,12.1,Sunny
+2026-01-17,Houston,80.1,9.1,Sunny
+2026-01-15,New York,45.9,10.5,Rain
+2026-01-03,Houston,76.9,15.8,Sunny
+2026-01-30,Seattle,40.5,13.0,Rain
+2026-01-13,Houston,67.4,15.8,Sunny
